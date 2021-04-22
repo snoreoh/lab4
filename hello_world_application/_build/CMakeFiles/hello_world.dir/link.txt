@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/hello_world.dir/hello_world.cpp.o  -o hello_world  /home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build/libformatter_ex.a /home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_lib/_build/libformatter.a 

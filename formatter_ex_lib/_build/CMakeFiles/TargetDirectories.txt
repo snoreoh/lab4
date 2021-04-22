@@ -1,3 +1,0 @@
-/home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build/CMakeFiles/rebuild_cache.dir
-/home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build/CMakeFiles/edit_cache.dir
-/home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build/CMakeFiles/formatter_ex.dir
