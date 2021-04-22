@@ -8,5 +8,5 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/formatter_lib)
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/formatter_ex_lib)
 find_package(formatter_ex PATHS ${CMAKE_CURRENT_SOURCE_DIR}/formatter_ex_lib/_build)
 find_package(formatter  PATHS ${CMAKE_CURRENT_SOURCE_DIR}/formatter_lib/_build)
-target_link_libraries(hello_world ${formatter_ex} ${formatter})
+target_link_libraries(${formatter_ex} ${formatter})
 

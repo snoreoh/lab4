@@ -10,4 +10,4 @@ add_executable(solver ${CMAKE_CURRENT_SOURCE_DIR}/solver_application/equation.cp
 find_package(formatter_ex NAMES libformatter_ex.a PATHS ${CMAKE_CURRENT_SOURCE_DIR}/formatter_ex_lib/_build)
 find_package(formatter NAMES libformatter.a PATHS ${CMAKE_CURRENT_SOURCE_DIR}/formatter_lib/_build)
 find_package(solver_lib NAMES libsolver_lib.a PATHS ${CMAKE_CURRENT_SOURCE_DIR}/solver_lib/_build)
-target_link_libraries(solver ${formatter_ex} ${formatter} ${solver_lib})
+target_link_libraries(${formatter_ex} ${formatter} ${solver_lib})
