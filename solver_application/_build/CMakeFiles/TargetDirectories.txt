@@ -1,0 +1,9 @@
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/CMakeFiles/rebuild_cache.dir
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/CMakeFiles/edit_cache.dir
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/CMakeFiles/solver.dir
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/solver_lib/CMakeFiles/rebuild_cache.dir
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/solver_lib/CMakeFiles/edit_cache.dir
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_application/_build/solver_lib/CMakeFiles/solver_lib.dir
