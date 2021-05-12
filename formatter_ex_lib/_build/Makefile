@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib
+CMAKE_SOURCE_DIR = /home/snoreoh/snoreoh/workspace/projects/lab3/formatter_ex_lib
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build
+CMAKE_BINARY_DIR = /home/snoreoh/snoreoh/workspace/projects/lab3/formatter_ex_lib/_build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build/CMakeFiles /home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/snoreoh/snoreoh/workspace/projects/lab3/formatter_ex_lib/_build/CMakeFiles /home/snoreoh/snoreoh/workspace/projects/lab3/formatter_ex_lib/_build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/snoreoh/snoreoh/workspace/projects/lab3/formatter_ex_lib/_build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ formatter_ex/fast:
 	$(MAKE) -f CMakeFiles/formatter_ex.dir/build.make CMakeFiles/formatter_ex.dir/build
 .PHONY : formatter_ex/fast
 
-formatter_ex.o: formatter_ex.cpp.o
+home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.o: home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.o
 
-.PHONY : formatter_ex.o
+.PHONY : home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.o
 
 # target to build an object file
-formatter_ex.cpp.o:
-	$(MAKE) -f CMakeFiles/formatter_ex.dir/build.make CMakeFiles/formatter_ex.dir/formatter_ex.cpp.o
-.PHONY : formatter_ex.cpp.o
+home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.o:
+	$(MAKE) -f CMakeFiles/formatter_ex.dir/build.make CMakeFiles/formatter_ex.dir/home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.o
+.PHONY : home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.o
 
-formatter_ex.i: formatter_ex.cpp.i
+home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.i: home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.i
 
-.PHONY : formatter_ex.i
+.PHONY : home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.i
 
 # target to preprocess a source file
-formatter_ex.cpp.i:
-	$(MAKE) -f CMakeFiles/formatter_ex.dir/build.make CMakeFiles/formatter_ex.dir/formatter_ex.cpp.i
-.PHONY : formatter_ex.cpp.i
+home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.i:
+	$(MAKE) -f CMakeFiles/formatter_ex.dir/build.make CMakeFiles/formatter_ex.dir/home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.i
+.PHONY : home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.i
 
-formatter_ex.s: formatter_ex.cpp.s
+home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.s: home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.s
 
-.PHONY : formatter_ex.s
+.PHONY : home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.s
 
 # target to generate assembly for a file
-formatter_ex.cpp.s:
-	$(MAKE) -f CMakeFiles/formatter_ex.dir/build.make CMakeFiles/formatter_ex.dir/formatter_ex.cpp.s
-.PHONY : formatter_ex.cpp.s
+home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.s:
+	$(MAKE) -f CMakeFiles/formatter_ex.dir/build.make CMakeFiles/formatter_ex.dir/home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.s
+.PHONY : home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... formatter_ex"
-	@echo "... formatter_ex.o"
-	@echo "... formatter_ex.i"
-	@echo "... formatter_ex.s"
+	@echo "... home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.o"
+	@echo "... home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.i"
+	@echo "... home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_ex_lib/formatter_ex.s"
 .PHONY : help
 
 

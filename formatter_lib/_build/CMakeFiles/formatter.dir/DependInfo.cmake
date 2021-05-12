@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_lib/formatter.cpp" "/home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_lib/_build/CMakeFiles/formatter.dir/formatter.cpp.o"
+  "/home/snoreoh/snoreoh/workspace/projects/lab3/formatter_lib/formatter.cpp" "/home/snoreoh/snoreoh/workspace/projects/lab3/formatter_lib/_build/CMakeFiles/formatter.dir/formatter.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

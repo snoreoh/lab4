@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/snoreoh/snoreoh/workspace/projects/lab4.1/solver_lib/solver.cpp
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_lib/solver.cpp
 solver.h
-/home/snoreoh/snoreoh/workspace/projects/lab4.1/solver_lib/solver.h
-stdexcept
--
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_lib/solver.h
 cmath
 -
+stdexcept
+-
 
-/home/snoreoh/snoreoh/workspace/projects/lab4.1/solver_lib/solver.h
+/home/snoreoh/snoreoh/workspace/projects/lab3/solver_lib/solver.h
 

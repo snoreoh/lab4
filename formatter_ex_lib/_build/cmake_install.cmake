@@ -1,4 +1,4 @@
-# Install script for directory: /home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib
+# Install script for directory: /home/snoreoh/snoreoh/workspace/projects/lab3/formatter_ex_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_ex_lib/_build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/snoreoh/snoreoh/workspace/projects/lab3/formatter_ex_lib/_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

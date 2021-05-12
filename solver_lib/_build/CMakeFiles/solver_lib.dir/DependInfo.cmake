@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/snoreoh/snoreoh/workspace/projects/lab4.1/solver_lib/solver.cpp" "/home/snoreoh/snoreoh/workspace/projects/lab4.1/solver_lib/_build/CMakeFiles/solver_lib.dir/solver.cpp.o"
+  "/home/snoreoh/snoreoh/workspace/projects/lab3/solver_lib/solver.cpp" "/home/snoreoh/snoreoh/workspace/projects/lab3/solver_lib/_build/CMakeFiles/solver_lib.dir/solver.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

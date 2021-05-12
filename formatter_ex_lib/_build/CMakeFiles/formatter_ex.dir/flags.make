@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/snoreoh/snoreoh/workspace/projects/lab4.1 -I/home/snoreoh/snoreoh/workspace/projects/lab4.1/formatter_lib 
+CXX_INCLUDES = -I/home/snoreoh/snoreoh/workspace/projects/lab03.1 -I/home/snoreoh/snoreoh/workspace/projects/lab03.1/formatter_lib 
 
