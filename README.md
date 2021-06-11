@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/justddreamm/lab04.svg?branch=master)](https://travis-ci.org/justddreamm/lab04)
+[![Build Status](https://travis-ci.com/snoreoh/lab4.svg?branch=master)](https://travis-ci.org/snoreoh/lab4)
 
 ## Homework. Lab #04
 
