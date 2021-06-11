@@ -1,12 +1,10 @@
-cmake_minimum_required(VERSION 3.4)
+cmake_minimum_required(VERSION 2.8)
 project(formatter_ex)
-set(CMAKE_CXX_STANDART 11)
-set(CMAKE_CXX_STANDART_REQUIRED ON)
-set(CMAKE_CURRENT_SOURCE_DIR ~/snoreoh/workspace/projects/lab03.1)
-add_library(formatter_ex STATIC ${CMAKE_CURRENT_SOURCE_DIR}/formatter_ex_lib/formatter_ex.cpp)
-include_directories(${CMAKE_CURRENT_SOURCE_DIR})
-include_directories(${CMAKE_CURRENT_SOURCE_DIR}/formatter_lib)
+
+include_directories(formatter_lib)
+
+add_subdirectory(formatter_lib)
+
+add_library(formatter_ex STATIC formatter_ex.h formatter_ex.cpp)
+
 target_link_libraries(formatter_ex formatter)
-
-
-
