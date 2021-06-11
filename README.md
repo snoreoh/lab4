@@ -2,7 +2,6 @@
 
 ## Homework. Lab #04
 
-з 
 
 1. Общий CMakeLists.txt
 
